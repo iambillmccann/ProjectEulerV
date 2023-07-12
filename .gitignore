@@ -9,6 +9,7 @@ ProjectEulerV
 
 # Ignore binary output folders
 bin/
+vlib/
 
 # Ignore common editor/system specific metadata
 .DS_Store
