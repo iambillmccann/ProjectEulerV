@@ -18,3 +18,17 @@ On Linux systems, create a /usr/local/bin/v symlink to your executable. To do th
 ```
 sudo ./v symlink
 ```
+
+### Step 3. Clone this repository
+Use git to clone the following repository to your local device ...
+
+```
+https://github.com/iambillmccann/ProjectEulerV.git
+```
+
+### Step 4. Run the project
+Traverse down to your project folder then run the following command ...
+
+```
+v run ./src/main.v
+```
