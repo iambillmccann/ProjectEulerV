@@ -43,6 +43,9 @@ fn compute() u64 {
 	return triangle
 }
 
+/*
+This function returns a list of divisors for a given number.
+*/
 fn get_divisors(number u64) []u64 {
 	mut divisors := []u64{}
 	fnumber := f64(number)
