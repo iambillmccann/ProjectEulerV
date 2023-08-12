@@ -32,3 +32,6 @@ Traverse down to your project folder then run the following command ...
 ```
 v run ./src/main.v
 ```
+
+## Summary
+This is not a complete implementation of the Project Euler framework as with the other languages: Python, c#, c++, Java, Scala, and Rust. Instead it is a solution of a single problem
