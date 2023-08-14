@@ -34,4 +34,4 @@ v run ./src/main.v
 ```
 
 ## Summary
-This is not a complete implementation of the Project Euler framework as with the other languages: Python, c#, c++, Java, Scala, and Rust. Instead it is a solution of a single problem
+This is not a complete implementation of the Project Euler framework as with the other languages: Python, c#, c++, Java, Scala, and Rust. Instead it is a solution of a single problem, number 12 Highly Divisible Triangle Number.
